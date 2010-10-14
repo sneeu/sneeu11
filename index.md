@@ -3,8 +3,8 @@ sneeu.com
 
 
 
-2010-10-14: A *bold* move?
---------------------------
+2010-10-14: A **bold** move?
+----------------------------
 
 I'm wondering if I really need any more than this as a website.
 
